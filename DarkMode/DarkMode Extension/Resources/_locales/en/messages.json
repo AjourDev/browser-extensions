@@ -1,0 +1,10 @@
+{
+    "extension_name": {
+        "message": "DarkMode Extension",
+        "description": "The display name for the extension."
+    },
+    "extension_description": {
+        "message": "DarkMode Extension.",
+        "description": "Changes a websites elements to either dark or light colours"
+    }
+}
